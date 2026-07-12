@@ -37,3 +37,4 @@ eines Funktionsfähigen Frontend und Backend, sowie die ersten technischen Ausf�
 Pro intensiv verwendet.
 
 Diese README wurde nicht mit KI erstellt
+Der Ordner .venv wurde aufgrund der Beschränkung für die Übertragung ins Repo via GitHub aus dem Repo entfernt und in die Email mit dem Quelllink als Anhang eingefügt.
